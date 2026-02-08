@@ -51,7 +51,7 @@ fun GameScreen(difficulty: Difficulty, onBack: () -> Unit) {
                 .background(bg)
                 .padding(16.dp)
         ) {
-            // --- Glavni UI (igra) ---
+            // --- Glavni UI ---
             Column(
                 modifier = Modifier.fillMaxSize(),
                 verticalArrangement = Arrangement.spacedBy(12.dp)
