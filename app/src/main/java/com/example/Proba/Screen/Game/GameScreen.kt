@@ -136,7 +136,7 @@ fun GameScreen(difficulty: Difficulty, onBack: () -> Unit) {
                 exit = fadeOut(tween(120)),
                 modifier = Modifier.fillMaxSize()
             ) {
-                // scrim preko cele igre
+                // scrin preko cele igre
                 Box(
                     modifier = Modifier
                         .fillMaxSize()

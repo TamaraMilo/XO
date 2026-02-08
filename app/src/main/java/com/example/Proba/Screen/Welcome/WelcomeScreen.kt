@@ -111,7 +111,7 @@ private fun PulsingXOLogo() {
         horizontalArrangement = Arrangement.spacedBy(14.dp)
     ) {
         XOChip(
-            text = "Z",
+            text = "X",
             container = MaterialTheme.colorScheme.primaryContainer,
             content = MaterialTheme.colorScheme.onPrimaryContainer
         )
